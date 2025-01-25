@@ -25,7 +25,7 @@ prev_teams_json_digest = None
 
 handler: SubmitClient = None
 connect = {
-    'protocol': 'http',
+    'protocol': 'https',
     'host': '127.0.0.1',
     'port': 2023,
     'player': 'anon'
